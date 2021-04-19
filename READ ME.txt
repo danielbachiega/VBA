@@ -1,0 +1,4 @@
+Usuario: admin
+Senha: 1
+
+Entrar na aba "ADMINISTRAÇÂO" e clicar em acesso a Planilha para ter acesso a planilha e ao codigo VBA.
